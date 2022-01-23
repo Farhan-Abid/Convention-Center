@@ -9,3 +9,20 @@ body{
     object-fit: cover;
     filter: blur(2px);
 }
+
+.wedding-background{
+    background-color: #3F87F5;
+    color: #FFFFFF;
+    border-radius: 26px;
+    
+}
+
+.foot-design{
+    background: #0B0D17;
+    height: 280px;
+    width: auto;
+    
+
+
+
+}
