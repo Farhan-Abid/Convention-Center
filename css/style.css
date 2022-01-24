@@ -26,3 +26,20 @@ body{
     
 }
 
+.cozy-img{
+    height: 355px;
+}
+
+.card-text{
+    color:#848199;
+    
+}
+
+.book-now-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #ff4b92 100%);
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+
+}
